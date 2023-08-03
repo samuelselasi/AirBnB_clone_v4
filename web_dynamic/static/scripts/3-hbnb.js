@@ -25,8 +25,9 @@ function apiStatus () {
 }
 
 function fetchPlaces () {
+  const PLACE_URL = 'http://0.0.0.0:5001/api/v1/places_search/';
   $.ajax({
-    url: 'http://0.0.0.0:5001/api/v1/places_search/',
+    url: PLACE_URL,
     type: 'POST',
     headers: { 'Content-Type': 'application/json' },
     data: JSON.stringify({}),
