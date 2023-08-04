@@ -1,3 +1,4 @@
+![Screenshot from 2023-08-04 21-33-35](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/54e023fb-fdbf-47e9-aac3-d7e2d42f1677)
 # 0x06. AirBnB clone - Web dynamic
 ### `Python` `Front-end` `JavaScript`
 ## Resources
@@ -163,5 +164,14 @@ Write a JavaScript script ([static/scripts/1-hbnb.js](./static/scripts/1-hbnb.js
 
 As example:
 
+![8e3c27078d62806b8ad1c1a682fbb3a48636ab89](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/9c940fc1-62a2-4e4d-a499-a5b0d8d7f821)
 
+![4e5cecdd82a70f07cd283ef8e242ad325c95b564](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/8ca7f13f-4355-48fa-b4f4-6540a8763ebf)
 
+![fb54e3081e229654db6e71ba919db753a791dcc3](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/7c254748-7f87-4cca-a390-074d7cc86261)
+
+![Screenshot from 2023-08-04 21-33-35](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/d4eb8743-4c70-4fe5-b878-420e4b3f578c)
+
+![Screenshot from 2023-08-04 21-33-22](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/52e14407-5099-4619-8a39-77c0fec6f9b3)
+
+![Screenshot from 2023-08-04 21-33-12](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/8ff12926-d71f-4a04-bb41-b35496f3627f)
