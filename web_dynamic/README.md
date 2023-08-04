@@ -71,6 +71,7 @@ if you need to expose other ports, same line but you will need to replace the â€
 
 Itâ€™s important in your project, to use the AirBnB API with the port `5001`
 
+![hbnb_step5](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/6f29991a-344f-46e1-8309-a63643d214b0)
 
 
 ## Tasks
