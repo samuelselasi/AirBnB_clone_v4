@@ -1,4 +1,3 @@
-![Screenshot from 2023-08-04 21-33-35](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/54e023fb-fdbf-47e9-aac3-d7e2d42f1677)
 # 0x06. AirBnB clone - Web dynamic
 ### `Python` `Front-end` `JavaScript`
 ## Resources
