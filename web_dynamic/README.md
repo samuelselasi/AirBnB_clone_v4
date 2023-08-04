@@ -283,3 +283,23 @@ Write a JavaScript script (`static/scripts/100-hbnb.js`):
 
 ![Screenshot from 2023-08-04 22-56-43](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/a594fde4-97c7-4b96-9f9f-35c78c80d9b5)
 
+[7. Reviews](./101-hbnb.py)
+
+Let’s add a new feature: show and hide reviews!
+
+Replace the route `100-hbnb` to `101-hbnb` in the file `101-hbnb.py` (based on `100-hbnb.py`)
+
+Create a new template `101-hbnb.html` (based on `100-hbnb.html`) and update it:
+
+* Import the JavaScript `static/scripts/101-hbnb.js` in the `<head>` tag (instead of `101-hbnb.js`)
+* Design the list of reviews from this task
+* Add a `span` element at the right of the `H2` “Reviews” with value “show” (add all necessary attributes to do this feature)
+
+Write a JavaScript script (`static/scripts/101-hbnb.js`):
+
+* Based on `100-hbnb.js`
+* When the `span` next to the Reviews `h2` is clicked by the user:
+	* Fetch, parse, display reviews and change the text to “`hide`”
+	* If the text is “`hide`”: remove all Review elements from the DOM
+	* This button should work like a toggle to fetch/display and hide reviews
+
