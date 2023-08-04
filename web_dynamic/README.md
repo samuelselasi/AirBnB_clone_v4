@@ -232,4 +232,5 @@ Write a JavaScript script (`static/scripts/3-hbnb.js`):
 
 The final result must be the same as previously, but now, places are loaded from the front-end, not from the back-end!
 
+![Screenshot from 2023-08-04 22-27-46](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/a20074c5-8e81-4df6-80c7-3523081bef3d)
 
