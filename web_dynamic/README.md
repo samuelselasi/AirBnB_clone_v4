@@ -246,3 +246,9 @@ Write a JavaScript script (`static/scripts/4-hbnb.js`):
 * When the `button` tag is clicked, a new POST request to `places_search` should be made with the list of `Amenities` checked
 
 Now you have the first filter implemented, enjoy!
+
+![Screenshot from 2023-08-04 22-39-14](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/04a9dce4-ef40-46ee-8707-9446560a7417)
+
+![Screenshot from 2023-08-04 22-39-32](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/fab97ca4-83a9-4f30-b6e9-5eaaaff04905)
+
+![Screenshot from 2023-08-04 22-40-12](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/b4eb86f3-4a3e-4ca5-ae64-a9711a8c2527)
