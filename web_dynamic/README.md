@@ -136,4 +136,32 @@ guillaume@ubuntu:~/AirBnB_v4$
 
 ![Screenshot from 2023-08-04 20-43-17](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/efad3f10-b7e5-4ea9-94ba-74a92e0fb058)
 
-[]()
+[2. Select some Amenities to be comfortable!](./1-hbnb.py)
+
+For the moment the filters section is static, let’s make it dynamic!
+
+Replace the route `0-hbnb` with `1-hbnb` in the file `1-hbnb.py` (based on `0-hbnb.py`)
+
+Create a new template `1-hbnb.html` (based on `0-hbnb.html`) and update it:
+
+* Import JQuery in the `<head>` tag
+* Import the JavaScript `static/scripts/1-hbnb.js` in the `<head>` tag
+	* In `1-hbnb.html` and the following HTML files, add this variable cache_id as query string to the above `<script>` tag
+* Add a `<input type="checkbox">` tag to the `li` tag of each `amenity`
+* The new checkbox must be at `10px` on the left of the `Amenity` name
+* Add to the `input` tags of each amenity (`<li>` tag) the attribute `data-id=":amenity_id"` => this will allow us to retrieve the `Amenity` ID from the DOM
+* Add to the `input` tags of each `amenity` (`<li>` tag) the attribute `data-name=":amenity_name"` => this will allow us to retrieve the Amenity name from the DOM
+
+Write a JavaScript script ([static/scripts/1-hbnb.js](./static/scripts/1-hbnb.js)):
+
+* Your script must be executed only when DOM is loaded
+* You must use JQuery
+* Listen for changes on each `input` checkbox tag:
+	* if the checkbox is checked, you must store the Amenity ID in a variable (dictionary or list)
+	* if the checkbox is unchecked, you must remove the Amenity ID from the variable
+	* update the `h4` tag inside the `div` Amenities with the list of Amenities checked
+
+As example:
+
+
+
