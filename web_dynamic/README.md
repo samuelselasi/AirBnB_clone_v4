@@ -279,4 +279,7 @@ Write a JavaScript script (`static/scripts/100-hbnb.js`):
 	* update the `h4` tag inside the `div` Locations with the list of `States` or `Cities` checked
 * When the `button` tag is clicked, a new POST request to `places_search` should be made with the list of `Amenities`, `Cities` and `States` checked
 
+![Screenshot from 2023-08-04 22-56-29](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/0045b3c6-6023-41ff-a457-a187c7d3aea9)
+
+![Screenshot from 2023-08-04 22-56-43](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/a594fde4-97c7-4b96-9f9f-35c78c80d9b5)
 
