@@ -303,3 +303,14 @@ Write a JavaScript script (`static/scripts/101-hbnb.js`):
 	* If the text is “`hide`”: remove all Review elements from the DOM
 	* This button should work like a toggle to fetch/display and hide reviews
 
+![Screenshot from 2023-08-04 23-15-07](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/8b190396-e079-4b60-bff7-69b2ecfc71b9)
+
+![Screenshot from 2023-08-04 23-15-34](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/dec572ef-166e-4b29-b03d-8535f2721ec6)
+
+![Screenshot from 2023-08-04 23-15-44](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/aca73aab-9772-4aa9-8dba-95476400ac9d)
+
+![Screenshot from 2023-08-04 23-15-49](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/186ef760-704c-4f48-afac-13144b1a4e89)
+
+![Screenshot from 2023-08-04 23-16-21](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/aa4e396a-95dd-4f67-be00-caaa3f3b1805)
+
+![Screenshot from 2023-08-04 23-16-27](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/eb5b133b-ccfd-42ef-acdc-f8751c1fbfc5)
