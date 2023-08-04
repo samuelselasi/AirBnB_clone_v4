@@ -130,10 +130,11 @@ guillaume@ubuntu:~/AirBnB_v4$ curl -s -XGET http://0.0.0.0:5000/0-hbnb/ | head -
     <link rel="stylesheet" type="text/css" href="../static/styles/3-header.css?f834413e-0aa9-4767-b64a-c92db9cb1f82" />
 guillaume@ubuntu:~/AirBnB_v4$
 ```
+![Screenshot from 2023-08-04 20-43-02](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/951b4eda-a040-4ec2-b8af-6026bed453a5)
 
 ![Screenshot from 2023-08-04 20-43-22](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/25a0722e-4348-46dc-bee4-ff62ae21e019)
-![Uploading Screenshot from 2023-08-04 20-43-17.png…]()
-![Screenshot from 2023-08-04 20-43-02](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/951b4eda-a040-4ec2-b8af-6026bed453a5)
+
+![Screenshot from 2023-08-04 20-43-22](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/1776e257-1928-4de7-85b2-36c7b152beb0)
 
 
 []()
