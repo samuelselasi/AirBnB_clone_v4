@@ -134,7 +134,6 @@ guillaume@ubuntu:~/AirBnB_v4$
 
 ![Screenshot from 2023-08-04 20-43-22](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/25a0722e-4348-46dc-bee4-ff62ae21e019)
 
-![Screenshot from 2023-08-04 20-43-22](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/1776e257-1928-4de7-85b2-36c7b152beb0)
-
+![Screenshot from 2023-08-04 20-43-17](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/efad3f10-b7e5-4ea9-94ba-74a92e0fb058)
 
 []()
