@@ -66,7 +66,7 @@ function fetchPlaces () {
               '</div>',
               '<div class="owner">',
               `<strong> Owner: </strong>${username}`,
-              '</div>',
+              '</div><br>',
               '<div class="description">',
               `${content.description}`,
               '</div>',
