@@ -1,4 +1,7 @@
 # AirBnB Clone - The Console
+
+![65f4a1dd9c51265f49d0](https://github.com/samuelselasi/AirBnB_clone_v4/assets/85158665/ac4e3040-4661-4b48-bfbc-9c5fdd6d49c5)
+
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
